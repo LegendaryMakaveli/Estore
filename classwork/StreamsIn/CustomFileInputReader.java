@@ -1,4 +1,4 @@
-package classwork.Streams;
+package classwork.StreamsIn;
 
 import java.io.FileInputStream;
 import java.io.IOException;
